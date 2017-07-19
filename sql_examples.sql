@@ -1053,10 +1053,6 @@ from
 group by
 	job_title;
 
-/*delete a table that you've created*/
-drop table 
-	job_title_avg_salary;
-
 /*updating a value in a table*/
 update 
 	staff
@@ -1162,6 +1158,10 @@ join
 on 
 	s.job_title = a.job_title; /*these are the fields you are joining on.  Usually it should be unique in at least one of the tables*/
 
+/*delete a table that you've created*/
+drop table 
+	job_title_avg_salary;
+	
 /*****MORE ADVANCED STUFF*****/
 
 /*In the join above I created a table with the average salary for each job title and then I joined it back to the original staff table so that I could
