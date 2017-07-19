@@ -1248,8 +1248,7 @@ fetch first
 
 
 /*If this was at all helpful there is even more advanced stuff in the Linked In Advanced SQL tutorial under Linked In learning.  You have to sign up for a $24/mo
-Linked In learning subscription to access it unless you have a free premium trial in your account but you can cancel it right after you're done and it won't take
-you a month  :) */
+Linked In learning subscription to access it unless you have a free premium trial in your account but you can cancel anytime */
 
 
 
